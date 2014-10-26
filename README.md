@@ -1,4 +1,5 @@
 hello-world
 ===========
 
-first test
+I'm a postgraduate from BUPT.
+Hope to make contribution to the world!
