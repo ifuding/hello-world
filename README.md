@@ -2,4 +2,4 @@ hello-world
 ===========
 
 I'm a postgraduate from BUPT.
-Hope to make contribution to the world!
+Hope to make contributions to the world!
